@@ -1,4 +1,4 @@
-# 🚗 Driver Drowsiness Detection 😴  
+# Driver Drowsiness Detection 🚗 😴  
 ![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0+-orange?logo=tensorflow)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-green?logo=opencv)
@@ -21,7 +21,6 @@
 - [▶️ How to Run](#️-how-to-run)
 - [📈 Results](#-results)
 - [🚀 Future Improvements](#-future-improvements)
-- [👨‍💻 Contributors](#-contributors)
 - [📄 License](#-license)
 
 ---
@@ -114,26 +113,36 @@ pip install -r requirements.txt
 # Run the notebook
 jupyter notebook drowsiness.ipynb
 ```
+---
 
 ## 📈 Results
 
-✅ Successfully classified eye state (Open/Closed)
-✅ Triggered real-time alert on drowsiness
-✅ Robust performance under different lighting conditions
+-✅ Successfully classified eye state (Open/Closed)
+
+-✅ Triggered real-time alert on drowsiness
+
+-✅ Robust performance under different lighting conditions
 
 Example Output:
 
-Driver Status: Drowsy 😴
-Alert: Please Wake Up! 🚨
+-Driver Status: Drowsy 😴
+
+-Alert: Please Wake Up! 🚨
+
+---
 
 ## 🚀 Future Improvements
 
-🔹 Integrate facial landmarks for better accuracy
-🔹 Combine CNN + LSTM for temporal sequence detection
-🔹 Deploy as a mobile or Raspberry Pi-based embedded system
-🔹 Add audio and vibration feedback modules
+-🔹 Integrate facial landmarks for better accuracy
+
+-🔹 Combine CNN + LSTM for temporal sequence detection
+
+-🔹 Deploy as a mobile or Raspberry Pi-based embedded system
+
+-🔹 Add audio and vibration feedback modules
 
 Developed by:
+
 💡 Nitish Namdeo
 🎓 B.Tech in Information Technology
 💻 Passionate about AI, Deep Learning, and Computer Vision
