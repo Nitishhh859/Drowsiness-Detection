@@ -113,6 +113,33 @@ pip install -r requirements.txt
 
 # Run the notebook
 jupyter notebook drowsiness.ipynb
-```bash
+```
+
+## 📈 Results
+
+✅ Successfully classified eye state (Open/Closed)
+✅ Triggered real-time alert on drowsiness
+✅ Robust performance under different lighting conditions
+
+Example Output:
+
+Driver Status: Drowsy 😴
+Alert: Please Wake Up! 🚨
+
+## 🚀 Future Improvements
+
+🔹 Integrate facial landmarks for better accuracy
+🔹 Combine CNN + LSTM for temporal sequence detection
+🔹 Deploy as a mobile or Raspberry Pi-based embedded system
+🔹 Add audio and vibration feedback modules
+
+Developed by:
+💡 Nitish Namdeo
+🎓 B.Tech in Information Technology
+💻 Passionate about AI, Deep Learning, and Computer Vision
+
+## 📄 License
+
+This project is licensed under the MIT License
 
 
